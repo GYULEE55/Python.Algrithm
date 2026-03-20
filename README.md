@@ -1,2 +1,23 @@
-# Algorithm
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# 🧑‍💻 이규님의 알고리즘 풀이 기록
+
+![Algorithm Stats](./algo_stats.png)
+
+> 문제를 풀 때마다 자동으로 업데이트됩니다.
+
+| 카테고리 | 풀이 수 |
+|---------|--------|
+| 문법 | 3 |
+| 구현 | 3 |
+| BFS | 0 |
+| DFS | 0 |
+| 완전탐색 | 0 |
+| 그리디 | 0 |
+| 정렬 | 0 |
+| DP | 0 |
+| 이분탐색 | 0 |
+| 해시 | 0 |
+| 문자열 | 0 |
+| 투포인터 | 0 |
+| 최단경로 | 0 |
+| 트리 | 0 |
+| GRAPH | 0 |
