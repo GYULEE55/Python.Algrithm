@@ -1,9 +1,5 @@
-import sys
-input = sys.stdin.readline
-
-s = set()
+mods=set()
 for _ in range(10):
-    x = int(input())
-    s.add(x % 42)
-
-print(len(s))
+    n= int(input())
+    mods.add(n%42)
+print(len(mods))
