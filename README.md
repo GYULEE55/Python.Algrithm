@@ -1,4 +1,4 @@
-# 이승규의 알고리즘 풀이 기록 🧑‍💻
+# 나의 알고리즘 풀이 기록 🧑‍💻
 
 <p align="center">
   <img src="./algo_stats.png" width="450"/>
